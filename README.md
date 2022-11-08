@@ -10,7 +10,7 @@ contained follows:
 
 ## Author
 
-* __Brennan D Baraban__ <[bdbaraban](https://github.com/bdbaraban)>
+* __Blessing Nwusulor__ <[beebee-git](https://github.com/beebee-git)>
 
 ## Acknowledgements
 
